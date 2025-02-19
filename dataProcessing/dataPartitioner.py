@@ -1,6 +1,6 @@
 
 import os  # 导入os模块，用于文件和目录操作
-import random  # 导入random模块，用于随机操作git commit -m ""
+import random  # 导入random模块，用于随机操作
 import shutil  # 导入shutil模块，用于文件复制等操作
 
 """

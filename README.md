@@ -1,1 +1,3 @@
-# fyp
+Animal Image Recognition System is a machine learning-based project that aims to develop an efficient image recognition system capable of recognizing multiple animal species. By using convolutional neural networks (CNNs), the system can classify animals in pictures with high accuracy. 
+
+This project includes training, testing, and prediction. Deep learning models are trained on labeled datasets to ensure classification accuracy. The system supports data preprocessing, model training. Users upload images and the system will return the classification result, confidence score and forecast time.
